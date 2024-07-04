@@ -2,3 +2,8 @@
 input.jpg
 sudoku.PNG
 modi_image.jpeg
+/HaarCascade
+/ImagesXMLs_Videos
+*.jpg
+/images
+/.vscode
