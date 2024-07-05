@@ -7,3 +7,5 @@ modi_image.jpeg
 *.jpg
 /images
 /.vscode
+/YOLO
+*.zip
